@@ -1,0 +1,10 @@
+.active{
+    background-color: white;
+    color: black !important;
+    border-radius: 15px;
+}
+
+hr{
+    height:0px;
+    border-top:5px solid #212529;
+}
